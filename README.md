@@ -9,12 +9,15 @@ This project presents a data-driven marketing attribution framework to identify 
 
 ## 🚀 Key Features
 
-- Customer Journey Analysis
-- Markov Chain Attribution Model
-- Removal Effect Calculation
-- True Cost Per Acquisition (CPA)
-- Budget Optimization using WMCDM
-- Data Visualization & Business Insights
+- Multi-touch Customer Journey Analysis
+- Markov Chain Attribution Modeling
+- Removal Effect Computation
+- Channel Contribution Analysis
+- True Cost Per Acquisition (CPA) Calculation
+- Historical vs Optimized Budget Allocation
+- Weighted Multi-Criteria Decision Model (WMCDM)
+- Top Funnel & Bottom Funnel Channel Identification
+- Executive Business Visualizations
 
 ---
 
@@ -51,8 +54,9 @@ This project presents a data-driven marketing attribution framework to identify 
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
+```text
 ROI-Lens-Marketing-Attribution
 │
 ├── marketing_attribution_budget_optimization.ipynb
@@ -67,6 +71,7 @@ ROI-Lens-Marketing-Attribution
 ├── top_bottom_funnel_b01_b05.png
 ├── top_bottom_funnel_b06_b10.png
 └── lastclick_vs_markov.png
+```
 
 ## 📬 Author
 
