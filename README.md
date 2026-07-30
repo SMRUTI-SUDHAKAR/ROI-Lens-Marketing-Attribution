@@ -27,6 +27,7 @@ This project presents a data-driven marketing attribution framework to identify 
 - Pandas
 - NumPy
 - Matplotlib
+- Channel Attribution
 - Jupyter Notebook
 
 ---
