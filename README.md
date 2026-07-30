@@ -53,17 +53,20 @@ This project presents a data-driven marketing attribution framework to identify 
 
 ## 📂 Repository Structure
 
-```
 ROI-Lens-Marketing-Attribution
 │
 ├── marketing_attribution_budget_optimization.ipynb
 ├── campaign_spend.csv
 ├── user_profiles.csv
 ├── Touchpoints.csv.gz
-└── README.md
-```
-
----
+├── requirements.txt
+├── README.md
+├── channel_attribution_heatmap.png
+├── true_cpa_comparison.png
+├── budget_optimization_heatmap.png
+├── top_bottom_funnel_b01_b05.png
+├── top_bottom_funnel_b06_b10.png
+└── lastclick_vs_markov.png
 
 ## 📬 Author
 
