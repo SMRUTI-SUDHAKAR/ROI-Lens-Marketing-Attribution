@@ -32,16 +32,41 @@ This project presents a data-driven marketing attribution framework to identify 
 
 ---
 
-## 📊 Workflow
+## 🔗 Workflow
 
-1. Data Collection
-2. Data Cleaning & Preprocessing
-3. Customer Journey Construction
-4. Markov Chain Attribution
-5. Removal Effect Analysis
-6. True CPA Calculation
-7. Budget Optimization
-8. Visualization & Insights
+1. Load Marketing Datasets
+2. Convert Timestamps & Data Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Fraud Detection (Bot Traffic Analysis)
+5. Data Cleaning & Validation
+6. Ad Fatigue Analysis
+7. Real-World Friction Analysis (Non-Linear Customer Journeys)
+
+### Phase 0 – Customer Journey Construction
+- Remove consecutive duplicate marketing touchpoints
+- Build cleaned customer journey sequences
+
+### Phase 1 – Markov Attribution Framework
+- Develop a reusable attribution framework for each brand
+- Compute Markov Transition Matrix
+- Calculate Channel Removal Effects
+- Estimate Markov Attribution Scores
+- Compare Last-Click vs Markov Attribution
+- Calculate True Cost per Acquisition (True CPA)
+
+### Phase 2 – Portfolio Budget Optimization
+- Historical Budget Analysis
+- Weighted Multi-Criteria Decision Model (WMCDM)
+- Budget Reallocation Strategy
+- Optimized Budget Allocation
+- Business Insights & Recommendations
+
+### Visualization & Reporting
+- Channel Attribution Heatmaps
+- True CPA Comparison
+- Budget Optimization Heatmaps
+- Top vs Bottom Funnel Analysis
+- Last-Click vs Markov Attribution Comparison
 
 ---
 
